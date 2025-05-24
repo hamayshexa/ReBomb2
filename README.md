@@ -40,7 +40,8 @@ Copy the Request URL and make sure it's the right one by pasting the url in your
 
 <img width="946" alt="Rebomb tutorial 2" src="https://user-images.githubusercontent.com/73670067/162610879-1547a2dd-6aa4-4c89-af7c-6a8dcdb128c1.PNG">
 
-Paste the request URL in the Rebomb and hit enter
+Paste the request URL in the Rebomb and hit enter 
+https://mon.tiktokv.com/monitor_browser/collect/batch/?bid=tiktok_pns_web_runtime
 
 You should get a bunch of "Thank you for your feedback" messages as the software will send the request over and over again.  Make sure you're using a VPN in case you get IP banned for sending all of these requests
 <img width="668" alt="Rebomb tutorial 2" src="https://user-images.githubusercontent.com/73670067/162611322-e9ffb653-da26-4399-b1d0-0aa592053ff2.PNG">
