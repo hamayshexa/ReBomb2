@@ -28,11 +28,13 @@ Report the person first in order to create the Request URL in "Inspect Element"
 
 
 
-MUST be in Network tab in Inspect Element in order to get Request URL
+MUST be in Network tab in Inspect Element in order to get Request URL 
+https://mon.tiktokv.com/monitor_browser/collect/batch/?bid=tiktok_pns_web_runtime
 
 <img width="960" alt="Rebomb tutorial 2" src="https://user-images.githubusercontent.com/73670067/162610670-894b1899-ec8b-4ca2-93eb-493501e8bbd0.PNG">
 
-Click Submit and the Request URL should look something like this
+Click Submit and the Request URL should look something like this 
+https://mon.tiktokv.com/monitor_browser/collect/batch/?bid=tiktok_pns_web_runtime
 
 <img width="960" alt="Rebomb tutorial 2" src="https://user-images.githubusercontent.com/73670067/162610726-1161c346-a058-48c0-918c-f91c7f628f94.PNG">
 
